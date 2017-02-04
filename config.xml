@@ -3,14 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "de.itmeindl.wawaapp1"
-        version   = "1.0.1"
-        versionCode="4">
+        id        = "de.itmeindl.lohhof"
+        version   = "1.0.0"
+        versionCode="1">
 
     <name>WachApp UFG</name>
 
     <description>
-        Eine Test-App für die Wachplan App der Wasserwacht Unterföhring von Tobias Meindl.
         Nur für interne Mitglieder. Passwort benötigt. Anfragen bei info@wachplan.info.
     </description>
 
@@ -168,7 +167,7 @@
     <access origin="https://bootstrapcdn.com" subdomains="true" />
     -->
     <access origin="https://maxcdn.bootstrapcdn.com" subdomains="true" />
-    <access origin="http://kenny-2.ddns.net" subdomains="true" />
+    <access origin="https://app.lohhof.wachbuch.info/" subdomains="true" />
     <access origin="https://www.google-analytics.com" subdomains="true" />
     <access origin="https://ajax.googleapis.com" subdomains="true" />
     <access origin="https://data.wachplan.info" subdomains="true" />
